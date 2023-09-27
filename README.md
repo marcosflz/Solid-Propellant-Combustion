@@ -5,3 +5,8 @@ The solidRocketData script is a "self-made" package in which all the data needed
 
 The combTime script uses external data of an experimental test to characterise the evolution of the burning rate with the pressure of the chamber. Taking into account all these data, a very simplified method can be written to simulate the evolution of the grain during the propellant combustion obtaining the transient propierties of the exhausted gases.
 
+
+![alt text](https://github.com/marcosflz/Solid-Propellant-Combustion/blob/main/Images/Curva_Regresion_Interpolada.png)
+![alt text](https://github.com/marcosflz/Solid-Propellant-Combustion/blob/main/Images/G_time.png)
+![alt text](https://github.com/marcosflz/Solid-Propellant-Combustion/blob/main/Images/P1_time.png)
+![alt text](https://github.com/marcosflz/Solid-Propellant-Combustion/blob/main/Images/T_time.png)
